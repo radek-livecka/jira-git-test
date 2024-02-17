@@ -1,6 +1,3 @@
 {
-    "gitInJira": [
-        "funguje",
-        "nefunguje"
-    ]
+  "gitInJira": ["funguje", "nefunguje"]
 }
