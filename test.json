@@ -1,3 +1,4 @@
 {
-  "gitInJira": ["funguje", "nefunguje"]
+  "gitInJira": ["funguje", "nefunguje"],
+  "plugIn": "nechapu"
 }
